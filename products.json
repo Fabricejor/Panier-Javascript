@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Huawei mate 20 lite 128g",
+        "price": 200,
+        "image": "images/huawei-mate-20-lite-128gb-ram-6gb-removebg-preview.png"
+    },
+    {
+        "id": 2,
+        "name": "Iphone 13 pro max",
+        "price": 2500,
+        "image": "images/Iphone-13-pro-Max-removebg-preview.png"
+    },
+    {
+        "id": 3,
+        "name": "Redmi 12 pro 5g",
+        "price": 500,
+        "image": "images/REDMI-12-removebg-preview.png"
+    },
+    {
+        "id": 4,
+        "name": "Samsung Galaxy S22 Ultra",
+        "price": 1800,
+        "image": "images/Samsung-galaxy-s22-ultra-removebg-preview.png"
+    },
+    {
+        "id": 5,
+        "name": "Sony Xperia 10",
+        "price": 800,
+        "image": "images/Sony-xperia-10--removebg-preview.png"
+    },
+    {
+        "id": 6,
+        "name": "Tecno Camon 20 PRO",
+        "price": 1000,
+        "image": "images/Tecno-Camon-20-Pro-removebg-preview.png"
+    }
+]
